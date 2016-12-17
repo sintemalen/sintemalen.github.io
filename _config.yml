@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://sintemalen.github.io
 title: sintemal
-tagline: a bit about anything
-description: My awesome new site
+tagline: ein bisschen über alles
+description: Mein großartiger Blog
 paginate: 5
