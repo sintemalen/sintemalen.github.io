@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://sintemalen.github.io
+title: sintemalen
+tagline: a bit about anything
+description: My awesome new site
+paginate: 5
